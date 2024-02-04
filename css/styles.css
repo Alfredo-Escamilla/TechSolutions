@@ -1,0 +1,19 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+.fondo {
+  height: 95vh;
+  background-image: url(../img/retrato-mujer-trabajadora-servicio-al-cliente.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.img-fluid {
+  min-width: 100%;
+  max-height: 100%;
+}
+nav {
+  opacity: 0.7;
+}
